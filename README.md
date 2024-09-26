@@ -20,7 +20,7 @@ The goal of Formula Frenzy is to match all the given physics formulas by selecti
    - At the start of the game, you will be prompted to choose the difficulty level by selecting the grid size. The grid size determines the number of cells in the grid, with larger grids being more challenging.
 
 2. **Grid Generation:** 
-   - Once the grid size is selected, the game generates a grid filled with symbols and a list of formulas(without repetition) that need to be matched.
+   - Once the grid size is selected, the game generates a grid filled with symbols and a list of formulas (without repetition) that need to be matched.
 
 ### Gameplay
 1. **Grid Display:** 
