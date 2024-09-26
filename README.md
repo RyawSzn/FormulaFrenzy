@@ -61,7 +61,7 @@ The goal of Formula Frenzy is to match all the given physics formulas by selecti
 2. **Winning Message:** 
    - The winning message includes a "Continue" button to acknowledge the victory and return to the main menu or difficulty selection screen.
 
-## List of Formulas
+## List of Formulas (according to the HKDSE Physics Syllabus)
 
 ### Kinematics
 - `s = ½(u + v)t` : {s, u, v, t}
