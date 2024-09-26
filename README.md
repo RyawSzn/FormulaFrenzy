@@ -28,6 +28,7 @@ The goal of Formula Frenzy is to match all the given physics formulas by selecti
 
 2. **Selecting Symbols:** 
    - You can select symbols by clicking on the cells in the grid. Up to 5 symbols can be selected at a time.
+   - Subscripts and superscripts are simply regarded as the symbol itself. (n₁ → n; v² → v)
 
 3. **Highlighted Cells:** 
    - Selected cells are highlighted to indicate they are part of the current selection.
