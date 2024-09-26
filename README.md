@@ -31,13 +31,13 @@ The goal of Formula Frenzy is to match all the given physics formulas by selecti
    - Subscripts and superscripts are simply regarded as the symbol itself. (n₁ → n; v² → v)
 
 3. **Highlighted Cells:** 
-   - Selected cells are highlighted to indicate they are part of the current selection.
+   - Selected cells are highlighted in yellow to indicate they are part of the current selection.
 
 4. **Matching Formulas:** 
    - The selected symbols are checked against the list of formulas. If the selected symbols match the required symbols of a formula, the formula is considered matched.
 
 5. **Matched Cells:** 
-   - Cells that are part of a matched formula are highlighted differently to indicate they have been successfully matched.
+   - Cells that are part of a matched formula are highlighted in green to indicate they have been successfully matched.
 
 ### Controls
 - **Mouse Click:** 
