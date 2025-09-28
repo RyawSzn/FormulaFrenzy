@@ -150,6 +150,6 @@ The goal of Formula Frenzy is to match all the given physics formulas by selecti
 
 ### Energy and Use of Energy
 - E = Φ / A, {"E", "Φ", "A"},
-- Q / t = UAΔT, {"Q", "t", "U", "T", "d"},
+- Q / t = UAΔT, {"Q", "t", "U", "T", "A"},
 - U = κ / d, {"U", "κ", "d"},
 - P = ½ρAv³, {"P", "ρ", "A", "v"}
